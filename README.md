@@ -5,32 +5,28 @@ The primary aim of this project is to develop an accurate predictive model utili
 
 
 ****Steps Involved****
-*Data Exploring*
 
-Explored the dataset to gain a better understanding of its structure and variables.
+  **Data Exploring**: 
+  Explored the dataset to gain a better understanding of its structure and variables.
 
-*Data Wrangling*
+  **Data Wrangling**:
+  Performed data wrangling to clean and preprocess the data, handling missing values, outliers, and inconsistencies.
 
-Performed data wrangling to clean and preprocess the data, handling missing values, outliers, and inconsistencies.
+  **Exploratory Data Analysis**:
+  Conducted exploratory data analysis (EDA) to visualize and analyze patterns, distributions, and correlations in the data.
 
-*Exploratory Data Analysis*
+  **Hypothesis Testing**:
+  Utilized hypothesis testing to validate assumptions and evaluate relationships between variables.
 
-Conducted exploratory data analysis (EDA) to visualize and analyze patterns, distributions, and correlations in the data.
+  **Feature Engineering & Data Pre-processing**:
+  Engaged in feature engineering and data pre-processing to create new features and transform variables for better model performance.
 
-*Hypothesis Testing*
+  **ML Model Implementation**:
+  Implemented machine learning models to train and evaluate predictive algorithms for forecasting the count of rental bikes.
 
-Utilized hypothesis testing to validate assumptions and evaluate relationships between variables.
+  **Results**:
+  The implemented models and analyses provide insights into the factors influencing bike rental demand and offer predictions for future bike rental 
+  requirements.
 
-*Feature Engineering & Data Pre-processing*
-
-Engaged in feature engineering and data pre-processing to create new features and transform variables for better model performance.
-
-*ML Model Implementation*
-
-Implemented machine learning models to train and evaluate predictive algorithms for forecasting the count of rental bikes.
-
-*Results*
-The implemented models and analyses provide insights into the factors influencing bike rental demand and offer predictions for future bike rental requirements.
-
-*Conclusion*
-The project successfully developed a predictive model for hourly bike rental demand, enabling better resource management and operational efficiency for bike-sharing services. Future work could involve exploring additional features, improving model accuracy, and integrating real-time data for dynamic prediction updates.
+  **Conclusion**:
+  The project successfully developed a predictive model for hourly bike rental demand, enabling better resource management and operational efficiency for bike-sharing services. Future work could involve exploring additional features, improving model accuracy, and integrating real-time data for dynamic prediction updates.

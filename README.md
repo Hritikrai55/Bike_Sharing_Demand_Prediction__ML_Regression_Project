@@ -22,7 +22,7 @@ The primary aim of this project is to develop an accurate predictive model utili
   Engaged in feature engineering and data pre-processing to create new features and transform variables for better model performance.
 
   **ML Model Implementation**:
-  Implemented machine learning models to train and evaluate predictive algorithms for forecasting the count of rental bikes.
+  Implemented machine learning models to train and evaluate predictive algorithms for forecasting the count of rental bikes. 
 
   **Results**:
   The implemented models and analyses provide insights into the factors influencing bike rental demand and offer predictions for future bike rental 
